@@ -1,0 +1,22 @@
+#result{
+    background-color: black;
+    color: white;
+    width: 300px;
+    text-align: right;
+}
+.parent{
+    display: flex;    
+    justify-content: center;
+    background-color: black;
+    width: 300px;
+}
+button{
+    background-color: white;
+    border-color: black;
+    width: 25%;
+}
+:disabled {
+    background-color: white;
+    border-color: black;
+    color: inherit;
+}
